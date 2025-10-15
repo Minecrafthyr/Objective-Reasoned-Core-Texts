@@ -1,0 +1,2 @@
+- 客观理智核心文本。目前仅有中文。
+- Objective Reasoned Core Texts. Currently only Chinese.
