@@ -1,7 +1,7 @@
-Objective Reasoned Core Texts. Currently only Chinese, and may change anytime.
+Used [Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode).
 
-客观理智核心文本。目前仅有中文，且可能随时更改。
+Objective Reasoned Core Texts. Currently only Chinese, work in progress, for show now.
 
-使用了[Mkdocs](https://mkdocs.org.cn/)的结构。
+客观理智核心文本。目前仅有中文，正在工作，仅作展示用。
 
-[zh-CN](./zh-CN/docs/index.md)
+* 中文：[[zh-CN]]

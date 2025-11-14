@@ -1,1 +1,1 @@
-See [zh-CN/docs/许可证.md](./zh-CN/docs/许可证.md)
+See [zh-CN/docs/许可.md](zh-CN/许可.md)
