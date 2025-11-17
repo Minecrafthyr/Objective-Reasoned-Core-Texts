@@ -1,0 +1,6 @@
+h2 {
+  counter-increment: h2-counter;
+}
+h2::before {
+  content: counter(h2-counter) ". ";
+}
